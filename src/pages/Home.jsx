@@ -20,7 +20,7 @@ const Home = () => {
       <header className="mb-12">
         <div className="flex flex-col md:flex-row items-center justify-between">
           <div className="w-full md:w-1/2 mb-6 md:mb-0">
-            <h1 className="text-4xl font-bold mb-4">Find Freelance Services on Fivito</h1>
+            <h1 className="text-4xl font-bold mb-4">Find Freelance Services on BlockHire</h1>
             <p className="text-lg mb-4">Hire talented freelancers to offer your skills to get work done.</p>
             <div className="flex">
               <input
